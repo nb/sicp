@@ -1,0 +1,2 @@
+The if statement returns either + or -, which is then used as a combinator and
+is applied to the operands a and b.

@@ -1,0 +1,3 @@
+The new-if falls into infiinte recursion.
+
+Original if uses normal-order, while new-if uses applicative-order. Thus the original if can return when knowing the result for good-enough?
